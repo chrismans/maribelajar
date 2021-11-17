@@ -1,0 +1,260 @@
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\index.htm
+Content Type: text/html
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/favicon
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\combo
+Content Type: text/css
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/styles.php/boost/1637052123_1637052242/all
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\styles.php\boost\1637052123_1637052242\styles.php
+Content Type: text/css
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/login/index.php
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\login\index.php.html
+Content Type: text/html
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/admin/tool/dataprivacy/summary.php
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\admin\tool\dataprivacy\summary.php.html
+Content Type: text/html
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/lib/javascript.php/1637052123/lib/babel-polyfill/polyfill.min.js
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\lib\javascript.php\1637052123\lib\babel-polyfill\javascript.php
+Content Type: application/javascript
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/lib/javascript.php/1637052123/lib/polyfills/polyfill.js
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\lib\javascript.php\1637052123\lib\polyfills\javascript.php
+Content Type: application/javascript
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\combo-1
+Content Type: application/javascript
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/lib/javascript.php/1637052123/lib/javascript-static.js
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\lib\javascript.php\1637052123\lib\javascript.php
+Content Type: application/javascript
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/moodlelogo_grayhat
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\moodlelogo_grayhat.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/lib/javascript.php/1637052123/lib/requirejs/require.min.js
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\lib\javascript.php\1637052123\lib\requirejs\javascript.php
+Content Type: application/javascript
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/yui_image.php?file=3.17.2/sprite_icons.png
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\sprite_icons.png
+Content Type: image/png
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/expanded
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\expanded.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/collapsed
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\collapsed.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/mod_forum/1637052123/t/subscribed
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\mod_forum\1637052123\t\subscribed.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/mod_forum/1637052123/t/unsubscribed
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\mod_forum\1637052123\t\unsubscribed.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/print
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\print.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/quiz/1637052123/navflagged
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\quiz\1637052123\navflagged.png
+Content Type: image/png
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/mod/wiki/pix/attachment.png
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\mod\wiki\pix\attachment.png
+Content Type: image/png
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/mod_workshop/1637052123/userplan/task-todo
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\mod_workshop\1637052123\userplan\task-todo.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/mod_workshop/1637052123/userplan/task-done
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\mod_workshop\1637052123\userplan\task-done.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/mod_workshop/1637052123/userplan/task-fail
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\mod_workshop\1637052123\userplan\task-fail.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/mod_workshop/1637052123/userplan/task-info
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\mod_workshop\1637052123\userplan\task-info.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/collapsed_empty
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\collapsed_empty.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/i/loading_small
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\i\loading_small.gif
+Content Type: image/gif
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/delete
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\delete.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/up
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\up.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/down
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\down.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/add
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\add.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/copy
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\copy.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/atto_h5p/1637052123/icon-white
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\atto_h5p\1637052123\icon-white.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/font.php/boost/core/1637052123/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\font.php\boost\core\1637052123\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/font.php/boost/core/1637052123/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\font.php\boost\core\1637052123\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/font.php/boost/core/1637052123/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\font.php\boost\core\1637052123\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/font.php/boost/core/1637052123/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\font.php\boost\core\1637052123\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/font.php/boost/core/1637052123/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\font.php\boost\core\1637052123\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/font.php/boost/core/1637052123/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\font.php\boost\core\1637052123\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/i/settings
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\i\settings.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/i/flagged
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\i\flagged.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/i/expired
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\i\expired.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/i/ajaxloader
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\i\ajaxloader.gif
+Content Type: image/gif
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/i/course
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\i\course.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/i/mnethost
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\i\mnethost.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/fp/path_folder
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\fp\path_folder.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/y/tn
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\y\tn.gif
+Content Type: image/gif
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/y/tm
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\y\tm.png
+Content Type: image/png
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/y/tp
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\y\tp.png
+Content Type: image/png
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/y/ln
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\y\ln.gif
+Content Type: image/gif
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/y/lm
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\y\lm.png
+Content Type: image/png
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/y/lp
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\y\lp.png
+Content Type: image/png
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/y/loading
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\y\loading.gif
+Content Type: image/gif
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/y/vline
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\y\vline.gif
+Content Type: image/gif
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/fp/link
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\fp\link.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/fp/alias
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\fp\alias.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/s/dead
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\s\dead.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/fp/link_sm
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\fp\link_sm.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/fp/alias_sm
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\fp\alias_sm.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/fp/dnd_arrow
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\fp\dnd_arrow.gif
+Content Type: image/gif
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/mod/quiz/flag-on
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\mod\quiz\flag-on.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/mod/quiz/warningtriangle
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\mod\quiz\warningtriangle.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/mod/quiz/checkmark
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\mod\quiz\checkmark.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/core/1637052123/t/locked
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\core\1637052123\t\locked.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/theme/image.php/boost/theme/1637052123/mod/quiz/whitecircle
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\theme\image.php\boost\theme\1637052123\mod\quiz\whitecircle.svg
+Content Type: image/svg+xml
+
+Uri: http://maribelajar.koreacentral.cloudapp.azure.com/login/forgot_password.php
+File Name: C:\Downloaded Web Sites\maribelajar.koreacentral.cloudapp.azure.com\login\forgot_password.php.html
+Content Type: text/html
+
